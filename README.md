@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Francefernance12
-- 👀 I’m interested in Back-end engineering
+- 👀 I’m interested in building software
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me LinkedIn, and Email
 
 <!---
